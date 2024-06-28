@@ -3,7 +3,7 @@
 1 - Clone the project
 
 ```bash
-https://github.com/Mmtza/login-multirole.git
+git clone https://github.com/Mmtza/login-multirole.git
 ```
 
 2 - Go to the project directory
